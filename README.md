@@ -7,7 +7,7 @@
 <left><img alt="Это я" width="15%" src="me.jpg"></left> <br/>
 <h2>Контакты:</h2>
 Страничка <a href=https://vk.com/elisiv1/>vkontakte</a> <br/>
-<a href=https://github.com/username>GitHub</a>
+<a href=https://github.com/lbelokurova111>GitHub</a>
 <br/>
 Телефон: <b>+79169097537</b>
 <br/>
